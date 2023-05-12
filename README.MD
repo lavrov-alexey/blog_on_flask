@@ -1,2 +1,2 @@
 # Flask
-GB Flask
+GB Course Flask. Project Blog 
